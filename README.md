@@ -19,19 +19,23 @@
 ### 效果图
 - **缩放循环展示卡牌效果**
 
-![这里写图片描述](http://img.blog.csdn.net/20170505180756890?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZGluZ3hpYW93ZWkyMDEz/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+[](http://dingxiaowei.cn/2017/04/25/2.gif)
 
-- **大量数据无卡顿动态加载，并且支持拖拽和点击**
+- **缩放循环展示卡牌效果**
 
-![这里写图片描述](http://img.blog.csdn.net/20170426065226405?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZGluZ3hpYW93ZWkyMDEz/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+[](http://dingxiaowei.cn/2017/04/25/2.gif)
+
+- **大量数据无卡顿动态加载，并且支持拖拽、点击和吸附功能**
+
+[](http://dingxiaowei.cn/2017/04/25/3.gif)
+
+- **大量数据循固定Item复用**
+
+[](http://dingxiaowei.cn/2017/04/25/4.gif)
 
 - **无限无遮罩动态加载**
 
-![这里写图片描述](http://img.blog.csdn.net/20170426064914545?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZGluZ3hpYW93ZWkyMDEz/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
-- **不规则子物体动态循环加载**
-
-![这里写图片描述](http://img.blog.csdn.net/20170426065350658?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZGluZ3hpYW93ZWkyMDEz/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+[](http://dingxiaowei.cn/2017/04/25/5.gif)
 
 
 ### 部分核心代码
